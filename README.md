@@ -4,14 +4,10 @@ A simple blog website built with Node.js, Express, and EJS.
 
 ## Sample output of Website
 
-![first.jpeg]
- (Photos/first.jpeg)
-![second.jpeg]
- (Photos/second.jpeg)
-![third.jpeg]
- (Photos/third.jpeg)
-![fourth.jpeg]
- (Photos/fourth.jpeg)
+![first.jpeg](Photos/first.jpeg)
+![second.jpeg](Photos/second.jpeg)
+![third.jpeg](Photos/third.jpeg)
+![fourth.jpeg](Photos/fourth.jpeg)
 
 ## Prerequisites
 
