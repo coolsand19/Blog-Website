@@ -1,0 +1,18 @@
+<%- include("partials/header.ejs"); -%>
+
+    <h1> Home </h1>
+
+    <p>
+        <%= StartingContent %>
+    </p>
+<%  for(let i=0; i<Posts.length; i++){ %>
+        <h1><%= Posts[i].title %></h1>
+        <p>
+            <%= Posts[i].postBody.substring(0,100)+" ..." %>
+             <a href=" /posts/<%=Posts[i].title%>">Read More</a>
+        </p>
+        
+<%  }   %>
+
+
+    <%- include("partials/footer.ejs"); -%>
