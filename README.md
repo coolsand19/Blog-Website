@@ -3,10 +3,16 @@
 A simple blog website built with Node.js, Express, and EJS.
 
 ## Sample output of Website
-
+This is home page without any posts.
 <img src="Photos/first.jpeg" width="300">
+
+This is compose page.
 <img src="Photos/second.jpeg" width="300">
+
+This is home page with posts.
 <img src="Photos/third.jpeg" width="300">
+
+This is post page.
 <img src="Photos/fourth.jpeg" width="300">
 
 ## Prerequisites
